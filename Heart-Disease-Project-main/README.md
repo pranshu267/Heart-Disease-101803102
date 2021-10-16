@@ -20,8 +20,7 @@ Output
 ![Methodology-Flow-Chart-of-CVD-prediction](https://user-images.githubusercontent.com/90909588/137602465-fa508995-aee6-4a5a-bf08-8ebb7a15a347.png)
 
 # Novelty
-
-
+The Heart Disease Prediction application is an end user support and online consultation project. Here, we propose a web application that allows users to get instant guidance on their heart disease through an intelligent system online. The application is fed with various details. The application allows user to share their heart related issues. It then processes user specific details to predict if the user maybe suffering from any heart condition and recommends if the user should visit the doctor or not. 
 
 # Tech Stack
 
