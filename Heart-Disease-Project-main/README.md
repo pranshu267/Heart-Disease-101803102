@@ -1,115 +1,37 @@
-# Heart Disease Prediction Project ❤
-This repository consists of files required to deploy a Machine Learning Web App created with Flask and deployed using Heroku platform.
+# Heart-Disease-101803102
 
-<img src="https://healthblog.uofmhealth.org/sites/consumer/files/2020-01/heart_beating_0.gif">
+This web app is used to predict if a person is suffering from heart disease and recommends if the person should visit the doctor or not.
 
-#### If you want to view the deployed model, click on the following link:
+# Link to the deployed model
 
-• https://heart-diseases-pred.herokuapp.com/
+https://heart-101803102.herokuapp.com/
 
-## Demo
+# Input/Output Screenshots
 
-<img src="https://raw.githubusercontent.com/SagarDhandare/Heart-Disease-Project/main/Images/gif.gif">
-<img src="https://raw.githubusercontent.com/SagarDhandare/Heart-Disease-Project/main/Images/gif1.gif">
-
-## Dataset
-
-[Heart Disease Dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
+Input 
+![Uploading Screenshot 2021-10-17 at 2.44.52 AM.png…]()
 
 
-## Tech Stack
-
-- Python
-- Machine Learning
-- Pandas
-- Numpy
-- Scikit-learn
-- Flask
-- HTML
-- CSS
-- Pycharm
-- Heroku
-
-  
-## Running Tests
-
-To run app, run the following command
-
-```bash
-  python app.run
-```
-
-  
-## Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/SagarDhandare/Heart-Disease-Project/main/Images/screenshot.png)
-
-  
-## Deployment
-
-To deploy this project run following command in the project folder
-
-```bash
-  git bash open
-```
-
-Create .git file
-```bash
-  git init
-```
-Track all the files
-```bash
-  git add .
-```
-Cheacking file track or not
-```bash
-  git status
-```
-Store as separate version
-```bash
-  git commit -m 'message'
-```
-### Deployment on Heroku
-
-Heroku login on git bash
-
-```bash
-  heroku login
-```
-Create new app
-
-```bash
-  heroku create
-```
-Push Code
-```bash
-  git remote -v
-```
-Push code to Master Branch
-```bash
-  git push heroku master
-```
-
-  
-## Related
-
-Here are some related projects
+Output 
+<img width="1440" alt="Screenshot 2021-10-17 at 2 45 20 AM" src="https://user-images.githubusercontent.com/90909588/137602369-eb905110-d816-4454-b9a4-93facb47b552.png">
 
 
-[Liver Disease](https://github.com/SagarDhandare/Liver-Disease-Prediction-Project)
 
-[Stroke Prediction](https://github.com/SagarDhandare/Stroke-Prediction-Project)
+# Tech Stack
 
-[Diabetes Disease](https://github.com/SagarDhandare/Diabetes-Disease-Project)
+A list of technologies used within the project:
+* Python
+* Numpy
+* Pandas
+* Sklearn
+* Flask
+* HTML
+* CSS
+* Heruko
 
-[Chronic Kidney Disease](https://github.com/SagarDhandare/Chronic-Kidney-Disease-Prediction-Project)
+ 
 
-[Breast Cancer Disease](https://github.com/SagarDhandare/Breast-Cancer-Disease-Prediction-Project)
-  
-## Feedback
 
-If you have any feedback, please reach out to me at https://www.linkedin.com/in/sagardhandare/
 
-Please do ⭐ the repository, if you like this.😊
 
-Thank you ❤
+
