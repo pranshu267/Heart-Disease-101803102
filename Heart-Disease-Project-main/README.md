@@ -16,7 +16,8 @@ Output
 <img width="1440" alt="Screenshot 2021-10-17 at 2 45 20 AM" src="https://user-images.githubusercontent.com/90909588/137602369-eb905110-d816-4454-b9a4-93facb47b552.png">
 
 # Flowchart of Methodology
-![Methodology-Flow-Chart-of-CVD-prediction_Q320](https://user-images.githubusercontent.com/90909588/137602416-2d6875c6-3d43-4943-9a2d-c66c84ee6ea1.jpeg)
+
+![Methodology-Flow-Chart-of-CVD-prediction](https://user-images.githubusercontent.com/90909588/137602465-fa508995-aee6-4a5a-bf08-8ebb7a15a347.png)
 
 # Novelty
 
